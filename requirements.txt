@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 # created-by: conda 24.11.3
-_openmp_mutex==4.5=2_gnu
+_openmp_mutex=4.5=2_gnu
 altair=5.5.0=pyhd8ed1ab_1
 asttokens=3.0.0=pyhd8ed1ab_1
 attrs=25.1.0=pyh71513ae_0
